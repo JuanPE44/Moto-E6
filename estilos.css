@@ -89,6 +89,16 @@ body:after {
 	z-index: 50;
 }
 
+.titulo {
+	text-align: center;
+	font-size: 70px;
+	letter-spacing: .3rem;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+	color: #FFF;
+	text-shadow: 1px 1px 50px #00000055;
+}
+
 /* PANTALLA -------------------------------------------------------------------------------------------------------------  */
 
 .pantalla-prendida {
