@@ -17,4 +17,4 @@ Esta es una página web que diseñé y maqueté para representar el celular Moto
 ## Uso
 
 - Abre el archivo `index.html` en tu navegador web para ver la página web del Moto E-6.
-- Tienes que precionar el boton de encendido del celular
+- Tenes que precionar el boton de encendido del celular
